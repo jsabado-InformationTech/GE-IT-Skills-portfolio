@@ -1,5 +1,4 @@
 # GE-IT-Skills-portfolio
-## About Me
-(Skills and Goals)
-**Skills**: (My skills) 
-**Goals**: (My Goals)
+## About Me!
+### "**_The person your current team is missing. Don't worry, your secret is safe with me._**"
+#### _My Skills and Goals_
