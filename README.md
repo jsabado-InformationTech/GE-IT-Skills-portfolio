@@ -5,5 +5,5 @@
 ##### ---> Teamplayer
 ##### ---> Timely
 #### _My Interests_
-##### ---> Strategic Games
+##### ---> Strategic Games (Sudoku, Chess, etc)
 ##### ---> Coding
