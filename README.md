@@ -46,7 +46,25 @@ I prompted an AI discovery tool to summarize recent literature on the digital tr
 | AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
 | :--- | :--- | :--- | :--- |
 | "Limited internet connectivity and digital literacy continue to hinder the expansion of rural enterprises in Mindanao." | Philippine Development Plan 2023–2028; DICT National ICT Household Survey | ✅ **Verified** | Confirmed. Connectivity gaps and inadequate digital skills remain major barriers to MSME digitalization, particularly in geographically isolated areas. |
-| ""E-commerce platforms enabled many MSMEs to maintain operations during and after the COVID-19 pandemic." | DTI Recovery Programs and Philippine Institute for Development Studies (PIDS) papers on MSME resilience | ✅ **Verified** | Supported by existing literature. Digital platforms provided alternative channels for marketing and sales during periods of mobility restrictions. |
+| "E-commerce platforms enabled many MSMEs to maintain operations during and after the COVID-19 pandemic." | DTI Recovery Programs and Philippine Institute for Development Studies (PIDS) papers on MSME resilience | ✅ **Verified** | Supported by existing literature. Digital platforms provided alternative channels for marketing and sales during periods of mobility restrictions. |
 
 #### 2. Critical Reflection on Tool Limitations
 "While AI efficiently summarized multiple studies, some numerical claims were exaggerated or unsupported by official data. Cross-checking with DTI, BSP, and PSA sources showed that AI may confuse targets with actual outcomes. Therefore, AI should aid literature synthesis, while human verification remains essential for maintaining research credibility."
+
+
+## **AI for Research & Data Analysis (Visual Reports)**
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Mindanao Flood Frequency and Rainfall Trends (Mock CSV Analysis)
+
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The CSV file contained missing rainfall measurements for 2022 and inconsistent formatting between millimeters and centimeters.
+- **AI Cleaning Instruction:** "Scan this dataset. Identify null values in the 'Rainfall' column and replace them with the median value for each province. Convert all rainfall measurements to millimeters (mm) and remove duplicate records. Output the first 5 rows of the cleaned table." 
+- **Result:** Successfully normalized 95 row entries across five provincial clusters.
+
+#### 2. Visualizations Generated
+<img width="590" height="388" alt="Screenshot 2026-06-20 150810" src="https://github.com/user-attachments/assets/fbda1675-430c-45c0-9d99-ea2ab7292ced" />
+
+
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+"These findings highlight the need for LGUs and disaster management agencies to strengthen flood mitigation programs and invest in resilient infrastructure to reduce the impacts of extreme weather events in Mindanao."
