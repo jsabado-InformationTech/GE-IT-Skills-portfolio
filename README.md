@@ -7,3 +7,6 @@
 #### _My Interests_
 ##### ---> Strategic Games (Sudoku, Chess, etc)
 ##### ---> Coding
+
+
+<img width="1584" height="396" alt="Profile Banner (1)" src="https://github.com/user-attachments/assets/2c8dcd2f-562f-4aee-801c-cd2df95ca862" />
