@@ -13,4 +13,24 @@
 ##### ---> Coding
 
 
+# **_A.I Explorer_**
+## **Prompt Engineering (Text & Image Generation)**
+### **The Davao Flood Response Communication Prompt System**
 
+#### 1. System Prompt Template (V3 - Final Optimized)
+"Act as a Senior Disaster Risk Reduction and Community Resilience Officer assigned to Davao City."
+
+Context: Continuous heavy rainfall has caused localized flooding in low-lying barangays near Matina and Talomo.
+Constraints: Use a professional and community centered tone. Do NOT reference international disaster management frameworks or foreign examples. Focus entirely on Davao City's roads, evacuation centers, and barangay level coordination. Avoid technical jargon and use language understandable to the general public.
+Format: Output in clear Markdown with exactly three actionable steps under the heading '### Immediate Actions'
+
+#### 2. Prompt Battle Ledger
+| Version | Prompt Modifier Added | Output Quality Reflection |
+| :--- | :--- | :--- |
+| V1 | "Write a flood response plan for Davao." | Too broad. Included generic emergency management practices and foreign agencies irrelevant to local communities.|
+| V2 | Added regional persona and specified affected areas in Davao City. | Better localization, but the language became too technical for barangay officials and volunteers.|
+| V3 | Added a 300-word limit and explicit local infrastructure constraints. | Target hit. Direct, actionable, and hyper-localized to Davao City's flood response operations while remaining easy to understand for barangay leaders and community volunteers.|
+
+#### 3. Visual Branding Asset
+- **Engine Used:** Canva Magic Media / DALL-E 3
+- **Visual Prompt:** "A flat minimalist vector logo of a shield protecting a house from flood waves with a Mt. Apo silhouette. Use four colors (blue, green, yellow, and dark gray), uniform strokes, and a symmetrical SVG design. Include connected nodes representing barangay coordination. No text, gradients, or shadows."
