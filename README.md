@@ -34,3 +34,19 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 #### 3. Visual Branding Asset
 - **Engine Used:** Canva Magic Media / DALL-E 3
 - **Visual Prompt:** "A flat minimalist vector logo of a shield protecting a house from flood waves with a Mt. Apo silhouette. Use four colors (blue, green, yellow, and dark gray), uniform strokes, and a symmetrical SVG design. Include connected nodes representing barangay coordination. No text, gradients, or shadows."
+
+## **AI Study Tools & Platforms (Content Critique)**
+### Literature Verification Log
+
+#### Topic: Digitalization Challenges and Opportunities for MSMEs in Mindanao
+
+#### 1.AI-Generated Summary Audit
+I prompted an AI discovery tool to summarize recent literature on the digital transformation of micro, small, and medium enterprises (MSMEs) in Mindanao. Below is the verification tracking matrix:
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+| :--- | :--- | :--- | :--- |
+| "Limited internet connectivity and digital literacy continue to hinder the expansion of rural enterprises in Mindanao." | Philippine Development Plan 2023–2028; DICT National ICT Household Survey | ✅ **Verified** | Confirmed. Connectivity gaps and inadequate digital skills remain major barriers to MSME digitalization, particularly in geographically isolated areas. |
+| ""E-commerce platforms enabled many MSMEs to maintain operations during and after the COVID-19 pandemic." | DTI Recovery Programs and Philippine Institute for Development Studies (PIDS) papers on MSME resilience | ✅ **Verified** | Supported by existing literature. Digital platforms provided alternative channels for marketing and sales during periods of mobility restrictions. |
+
+#### 2. Critical Reflection on Tool Limitations
+"While the AI platform consolidated numerous policy papers and economic studies into concise thematic summaries, several quantitative claims lacked empirical support. In particular, numerical estimates concerning digital payment adoption and regional e-commerce contributions were either exaggerated or unsupported by official data. Manual cross-checking against primary sources from the Department of Trade and Industry (DTI), Bangko Sentral ng Pilipinas (BSP), and the Philippine Statistics Authority (PSA) revealed that AI-generated summaries may confuse policy targets with actual outcomes or generalize national trends to regional contexts. Consequently, AI tools should be viewed as accelerators for literature synthesis rather than substitutes for rigorous source validation. Human auditing remains essential to preserve the credibility and structural integrity of research outputs intended for policy formulation."
