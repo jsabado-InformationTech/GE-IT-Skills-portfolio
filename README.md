@@ -1,4 +1,4 @@
-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/192f4ff8-65c3-4e65-8396-3cf74b0b8d39" />
 ## About Me!
 ### "**_The person your current team is missing. Don't worry, your secret is safe with me._**"
 <img width="500" height="500" alt="Logo" src="https://github.com/user-attachments/assets/a2338251-11dd-4b93-aa14-6edbbd48beb7" />
@@ -13,7 +13,7 @@
 #**_Reflection_**
 ## **C.R.A.P PRINCIPLES**
 <img width="1009" height="571" alt="image" src="https://github.com/user-attachments/assets/92613d65-150b-47cb-a202-4d40d2fed666" />
-The design leverages a cohesive, purple-monochrome color palette (#9381FF, #B8B8FF, and #F8F7FF) across all pages to establish a strong, professional personal brand through repetition. Clean alignment and strategic proximity are maintained throughout, from the structured grid of uniform line icons on the skills page to the chronological layout of the horizontal career timeline.
+The design leverages a cohesive, purple-monochrome color palette (#9381FF, #B8B8FF, and #F8F7FF) across all pages to show a strong, professional personal brand through repetition. The clean alignment and strategic proximity are maintained throughout, from the structured grid of uniform line icons on the skills page to the chronological layout of the horizontal career timeline.
 
 ##  **Color Palette**
 <img width="616" height="405" alt="image" src="https://github.com/user-attachments/assets/2d1c163b-361c-4e5c-bc23-35a63bb693b1" />
@@ -66,6 +66,9 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 - **Engine Used:** Canva Magic Media / DALL-E 3
 - **Visual Prompt:** "A flat minimalist vector logo of a shield protecting a house from flood waves with a Mt. Apo silhouette. Use four colors (blue, green, yellow, and dark gray), uniform strokes, and a symmetrical SVG design. Include connected nodes representing barangay coordination. No text, gradients, or shadows."
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d96dc8d6-b1b6-495b-994a-aa4250276ee5" />
+
+
 ## **AI Study Tools & Platforms (Content Critique)**
 ### Literature Verification Log
 
@@ -81,6 +84,8 @@ I prompted an AI discovery tool to summarize recent literature on the digital tr
 
 #### 2. Critical Reflection on Tool Limitations
 "While AI efficiently summarized multiple studies, some numerical claims were exaggerated or unsupported by official data. Cross-checking with DTI, BSP, and PSA sources showed that AI may confuse targets with actual outcomes. Therefore, AI should aid literature synthesis, while human verification remains essential for maintaining research credibility."
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/da7069c6-16b0-40c5-802e-e619666c322e" />
 
 
 ## **AI for Research & Data Analysis (Visual Reports)**
