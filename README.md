@@ -46,8 +46,6 @@ The banner design relies on strict horizontal alignment, utilizing bold top and 
 The cover slide establishes clear visual proximity by grouping project topics, attributes, and career aspirations into structured, vertically stacked text blocks. Strong contrast is achieved through typography size variation, making the main header immediately prominent, and by utilizing deep violet text against a clean, light background for effortless scannability. 
 
 
-
-## ****
 # **_A.I Explorer_**
 ## **Prompt Engineering (Text & Image Generation)**
 ### **The Davao Flood Response Communication Prompt System**
