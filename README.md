@@ -9,7 +9,7 @@
 ##### ---> Strategic Games (Sudoku, Chess, etc)
 ##### ---> Coding
 
-#**_Reflection_**
+#**_PROJECTS_**
 ## **C.R.A.P PRINCIPLES**
 <img width="1009" height="571" alt="image" src="https://github.com/user-attachments/assets/92613d65-150b-47cb-a202-4d40d2fed666" />
 The design leverages a cohesive, purple-monochrome color palette (#9381FF, #B8B8FF, and #F8F7FF) across all pages to show a strong, professional personal brand through repetition. The clean alignment and strategic proximity are maintained throughout, from the structured grid of uniform line icons on the skills page to the chronological layout of the horizontal career timeline.
