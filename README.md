@@ -1,5 +1,3 @@
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dd11c7b-7bac-4faa-9320-bab406edca70" /><img width="642" height="643" alt="image" src="https://github.com/user-attachments/assets/625781ba-880f-4056-8eb5-d3a3dcb153d7" /># GE-IT-Skills-portfolio
-<img width="1584" height="396" alt="Profile Banner (1)" src="https://github.com/user-attachments/assets/2c8dcd2f-562f-4aee-801c-cd2df95ca862" />
 
 ## About Me!
 ### "**_The person your current team is missing. Don't worry, your secret is safe with me._**"
