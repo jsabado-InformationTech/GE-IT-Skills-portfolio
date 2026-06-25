@@ -85,8 +85,6 @@ I prompted an AI discovery tool to summarize recent literature on the digital tr
 #### 2. Critical Reflection on Tool Limitations
 "While AI efficiently summarized multiple studies, some numerical claims were exaggerated or unsupported by official data. Cross-checking with DTI, BSP, and PSA sources showed that AI may confuse targets with actual outcomes. Therefore, AI should aid literature synthesis, while human verification remains essential for maintaining research credibility."
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/da7069c6-16b0-40c5-802e-e619666c322e" />
-
 
 ## **AI for Research & Data Analysis (Visual Reports)**
 ### Data Analytics & Visual Report
