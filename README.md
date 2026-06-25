@@ -1,6 +1,9 @@
 # About Me!
-### "**_The person your current team is missing. Don't worry, your secret is safe with me._**"
+## "**_The person your current team is missing. Don't worry, your secret is safe with me._**"
 <img width="500" height="500" alt="Logo" src="https://github.com/user-attachments/assets/a2338251-11dd-4b93-aa14-6edbbd48beb7" />
+
+## **PERSONAL BIOGRAPHY**
+An ambitious and detail-oriented Junior Accountant dedicated to driving financial accuracy and efficiency. Backed by a solid foundation in accounting principles, financial reporting, and standard industry compliance, they bring a fresh perspective and a sharp analytical mindset to the team. Highly proficient in Excel and modern accounting software, they excel at managing data entry, reconciling accounts, and transforming raw numbers into clear, organized financial insights. A proactive learner, they are committed to supporting fiscal health while continuously expanding their expertise in corporate finance.
 
 #### _My Skills_
 ##### ---> Teamplayer
