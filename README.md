@@ -1,5 +1,4 @@
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/192f4ff8-65c3-4e65-8396-3cf74b0b8d39" />
-## About Me!
+# About Me!
 ### "**_The person your current team is missing. Don't worry, your secret is safe with me._**"
 <img width="500" height="500" alt="Logo" src="https://github.com/user-attachments/assets/a2338251-11dd-4b93-aa14-6edbbd48beb7" />
 
