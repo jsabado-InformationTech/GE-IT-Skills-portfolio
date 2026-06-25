@@ -1,4 +1,4 @@
-# GE-IT-Skills-portfolio
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dd11c7b-7bac-4faa-9320-bab406edca70" /><img width="642" height="643" alt="image" src="https://github.com/user-attachments/assets/625781ba-880f-4056-8eb5-d3a3dcb153d7" /># GE-IT-Skills-portfolio
 <img width="1584" height="396" alt="Profile Banner (1)" src="https://github.com/user-attachments/assets/2c8dcd2f-562f-4aee-801c-cd2df95ca862" />
 
 ## About Me!
@@ -12,7 +12,42 @@
 ##### ---> Strategic Games (Sudoku, Chess, etc)
 ##### ---> Coding
 
+#**_Reflection_**
+## **C.R.A.P PRINCIPLES**
+<img width="1009" height="571" alt="image" src="https://github.com/user-attachments/assets/92613d65-150b-47cb-a202-4d40d2fed666" />
+The design leverages a cohesive, purple-monochrome color palette (#9381FF, #B8B8FF, and #F8F7FF) across all pages to establish a strong, professional personal brand through repetition. Clean alignment and strategic proximity are maintained throughout, from the structured grid of uniform line icons on the skills page to the chronological layout of the horizontal career timeline.
 
+##  **Color Palette**
+<img width="616" height="405" alt="image" src="https://github.com/user-attachments/assets/2d1c163b-361c-4e5c-bc23-35a63bb693b1" />
+The design presents a clean, minimalist color palette consisting of three harmonious shades (#9381FF, #B8B8FF, and #F8F7FF) that establish a soothing and cohesive visual identity. It leverages repetition by arranging the blocks side-by-side in equal vertical bands, while strong contrast is achieved by orienting the hex code labels vertically, breaking standard text expectations to capture attention. And it is also my favorite color.
+
+## **LOGO**
+<img width="642" height="643" alt="image" src="https://github.com/user-attachments/assets/7087ee40-c822-445e-8cab-b7e0ed158792" />
+The logo design features a structured personal monogram enclosed within a modern, drafting-style linear frame that establishes a balanced and secure baseline. It effectively utilizes contrast and layered proximity by overlapping the primary initials "J" and "S" in a deeper violet hue over a lighter lavender "Y," drawing the eye directly to the center of the identity.
+
+## **INFOGRAPHICS**
+<img width="943" height="2000" alt="Infographic" src="https://github.com/user-attachments/assets/ccb6cb85-ae92-4e84-a5ae-88f78583e9fa" />
+The infographic utilizes a structured stacked layout with alternating solid white and tinted horizontal banners to create immediate visual hierarchy and distinct proximity for each core section of the research. It achieves strong alignment by balancing descriptive textual insights—such as the Enron example and the shifting methodology pipeline—on the left with bold, context-specific monochrome line icons and a horizontal bar chart on the right.
+
+## **PROTOTYPE**
+<img width="883" height="551" alt="image" src="https://github.com/user-attachments/assets/c013fd8e-5afd-4c3c-86b6-2f581d13c4de" />
+The landing page design establishes an energetic, futuristic aesthetic using a vibrant synthwave-inspired background that emphasizes the theme of forward-looking strategy. It creates intense contrast through a stylized glitch effect on the main white headline text ("THE APEX STRATEGIST OF FUTURE MARKETS"), immediately capturing user attention against the darker backdrop. Clean horizontal alignment is maintained via the top navigation bar, while strategic proximity links the core value proposition statement to an interactive "Tap to Discover More" button, guiding the user's eye naturally down the digital hierarchy.
+
+## **YOUTUBE VIDEO**
+<img width="904" height="501" alt="image" src="https://github.com/user-attachments/assets/03a5c594-deb6-4012-8a8b-9d1814bcc8af" />
+For my youtube video, i just used the pictures to refer to myself as i go to ateneo de davao university and also myself there explaining. And i also showed the accounting pics to refer to myself as my course is accounting and also Mypassion for being a CPA.
+
+## **BANNER**
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/023565ad-7358-4ec8-ac6c-afe9219ba42b" />
+The banner design relies on strict horizontal alignment, utilizing bold top and bottom solid bands to anchor the layout and frame the central content area safely. It establishes strong visual hierarchy through typography contrast, pairing a large, prominent name display with smaller, light-weighted subtext blocks grouped in close proximity on the left. 
+
+## **PROMOTIONAL**
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5b5fae7-8077-46c3-b94d-d941a6574afb" />
+The cover slide establishes clear visual proximity by grouping project topics, attributes, and career aspirations into structured, vertically stacked text blocks. Strong contrast is achieved through typography size variation, making the main header immediately prominent, and by utilizing deep violet text against a clean, light background for effortless scannability. 
+
+
+
+## ****
 # **_A.I Explorer_**
 ## **Prompt Engineering (Text & Image Generation)**
 ### **The Davao Flood Response Communication Prompt System**
